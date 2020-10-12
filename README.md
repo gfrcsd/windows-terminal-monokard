@@ -17,4 +17,4 @@ If you are on the lookout for a font, here are some free recommendations worth c
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 ## See also
-[Monokard for VS Code](https://https://github.com/gfrcsd/vscode-monokard#readme)
+[Monokard for VS Code](https://github.com/gfrcsd/vscode-monokard#readme)
