@@ -1,0 +1,21 @@
+{
+  "name": "Monokard",
+  "foreground": "#F8F8F2",
+  "background": "#131313",
+  "black": "#151718",
+  "brightBlack": "#625e4c",
+  "blue": "#6C71C4",
+  "brightBlue": "#6C71C4",
+  "cyan": "#66D9EF",
+  "brightCyan": "#66D9EF",
+  "green": "#0fd589",
+  "brightGreen": "#0fd589",
+  "purple": "#F92672",
+  "brightPurple": "#F92672",
+  "red": "#F92672",
+  "brightRed": "#F92672",
+  "white": "#F8F8F2",
+  "brightWhite": "#f6f6ef",
+  "yellow": "#fd971e",
+  "brightYellow": "#fd971e"
+}
